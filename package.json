@@ -1,0 +1,16 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^1.6.11"
+  },
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
